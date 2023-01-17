@@ -1,7 +1,7 @@
 # LGMVIP-DataScience
 LetsGrowMore
 VIP Data Science  Internship Tasks
-Task 1 - Iris Flower Classification Using Machine Learning
-Task 2 - Stock Market Prediction and forecasting using LSTM
+![download](https://user-images.githubusercontent.com/119614928/212817438-db50ee00-2311-4bec-beb4-8b095664338e.png)
+
 
 
